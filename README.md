@@ -1,7 +1,7 @@
-#Mumble
+# Mumble
 Low level steganography 
 
-#Installation 
+# Installation 
 Mumble is a simple steganography program written in C++.
 For those who know how to complie and run c++ programs, well done, get on with running it. 
 
@@ -16,6 +16,6 @@ Step 2 --
 Step 3 --
           Play !!!!
 
-#Usage
+# Usage
 
 Follow the on screen directions :)
